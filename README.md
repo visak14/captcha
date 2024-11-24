@@ -22,7 +22,7 @@ Node.js and npm installed.
 1. Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/captcha-solver.git
+git clone https://github.com/visak14/captcha.git
 cd captch
 2. Install dependencies:
 3. 
