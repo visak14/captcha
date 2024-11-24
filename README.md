@@ -7,7 +7,7 @@ Coin Reward System: Updates the user’s coin balance upon correct answers.
 Dynamic CAPTCHAs: New CAPTCHA is generated after each submission.
 
 Screenshot
-![CAPTCHA Screenshot](./assets/Screenshot12.png)
+![CAPTCHA Screenshot](./frontend/src/assets/Screenshot12.png)
 
 Tech Stack
 Frontend
