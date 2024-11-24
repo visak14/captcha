@@ -6,6 +6,9 @@ CAPTCHA Solver: Displays CAPTCHA  to users for solving.
 Coin Reward System: Updates the user’s coin balance upon correct answers.
 Dynamic CAPTCHAs: New CAPTCHA is generated after each submission.
 
+Screenshot
+![CAPTCHA Screenshot](./assets/Screenshot12.png)
+
 Tech Stack
 Frontend
 React.js: For building the user interface.
